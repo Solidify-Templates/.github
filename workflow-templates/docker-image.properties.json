@@ -1,0 +1,13 @@
+{
+    "name": "Solidify-Template docker-image template",
+    "description": "Solidify-Template docker-image template.",
+    "iconName": "docker",
+    "categories": [
+        "Dockerfile"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
