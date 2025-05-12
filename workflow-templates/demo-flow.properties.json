@@ -1,7 +1,7 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI workflow template.",
-    "iconName": "example-icon",
+    "name": "Solidify-Template demonstration template",
+    "description": "Solidify-Template demonstration template.",
+    "iconName": "docker",
     "categories": [
         "Go"
     ],
